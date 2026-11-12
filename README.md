@@ -28,8 +28,8 @@ CurrenSync is a simple and user-friendly currency conversion website that allows
 
 <table>
   <tr>
-    <td><img src="./screenshot1.png" width="100%"></td>
-    <td><img src="./screenshot2.png" width="100%"></td>
+    <td><img src="Screenshot 2026-11-13 022034.png" width="100%"></td>
+    <td><img src="Screenshot 2026-11-13 021957.png" width="100%"></td>
   </tr>
 </table>
 
