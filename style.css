@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://i.pinimg.com/1200x/72/51/e4/7251e411abd572fe055c6af1bbd473a2.jpg');
+}
+
+body{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.entermsg{
+    
+    color: rgb(0, 0, 0);
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+    padding:2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+
+    width: 400px;
+    height: 450px;
+    border-radius: 20px;
+    padding: 2rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    background: rgb(0, 0, 0) !important;
+    opacity: 0.8;
+}
+
+
+form{
+
+    background: rgba(0, 0, 0, 0.959) !important;
+    opacity: 0.8;
+    border-radius: 20px;
+    text-align: center;
+}
+
+h2{
+    
+    text-align: center;
+    color: white  !important;
+    background: rgba(0, 0, 0, 0.959) !important;
+    margin-bottom: 1rem;
+    border-radius: 20px;
+    opacity: 0.8;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-size: 3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+form select,button,input{
+
+    width: 100%;
+    border: none;
+    outline: none;
+    border-radius: 0.5rem;
+}
+
+form input{
+
+    border: 1px solid #000000;
+    width: 80%;
+    height: 30px;
+    font-size: 1.2rem;
+    padding-left: 6px;
+    background: black;
+    color: white;      
+}
+
+form select{
+
+    height: 30px;
+    width: 25%;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    background: black;
+    color: white;  
+    border-radius: 10px;
+}
+
+.dropdown{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.msg{
+    color: rgb(0, 0, 0);
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    background: rgba(254, 252, 252, 0.959) !important;
+    border-radius: 20px;
+    height: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+
+.btn{
+    background: rgba(254, 252, 252, 0.959) !important;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    width: 70%;
+    height: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    
+}
+
+.frompara{
+    color: rgb(0, 0, 0);
+    font-size: 1.5rem;
+    margin-bottom: 0.2rem;
+    margin-top: 0.2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.topara{
+    color: rgb(0, 0, 0);
+    font-size: 1.5rem;
+    margin-bottom: 0.2rem;
+    margin-top: 0.2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+}
+
+.select-container img{
+    width: 100px;
+    height: 100px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 5px;
+   
+}
+
+.select-container select{
+    width: 80%;
+    height: 40px;
+    font-size: 1.2rem;
+    background: black;
+    color: white;  
+}
+
+.dropdown i{
+    font-size: 2.8rem;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    
+}
