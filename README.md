@@ -1,2 +1,45 @@
-# CurrenSync
-As the name suggests, **CurrenSync** is a currency conversion website that allows users to easily convert one currency into another. It provides exchange rates for different currencies with a simple and user-friendly interface, making currency conversion quick and convenient.
+<img width="1092" height="912" alt="Screenshot 2026-11-13 022034" src="https://github.com/user-attachments/assets/054efef2-7968-4852-b098-5ad03fc6555f" /># 💱 CurrenSync – Currency Converter
+
+CurrenSync is a simple and user-friendly currency conversion website that allows users to convert one currency into another using the latest available exchange rates. It makes currency conversion quick, easy, and convenient.
+
+## ✨ Features
+
+- Convert between multiple currencies.
+- Fetch exchange rates using API integration.
+- Dynamic currency selection through dropdown menus.
+- Automatically updated country flags.
+- Enter custom amounts for conversion.
+- Simple and responsive user interface.
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Currency API
+- Flags API
+
+## 🌐 Live Demo
+
+[**Click here to visit CurrenSync**]_[LINK](https://currensync-weld.vercel.app/)
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="Screenshot 2026-11-13 021957.png"" width="100%"></td>
+    <td><img src="Screenshot 2026-11-13 022034.png"" width="100%"></td>
+  </tr>
+</table>
+
+## 📚 What I Learned
+
+- DOM Manipulation using JavaScript.
+- Fetching API data using `fetch()`.
+- Working with async/await.
+- Handling JSON responses.
+- Dynamically updating content based on user input.
+
+---
+
+**Built with ❤️ using HTML, CSS and JavaScript.**
