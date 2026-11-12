@@ -1,4 +1,4 @@
-<img width="1092" height="912" alt="Screenshot 2026-11-13 022034" src="https://github.com/user-attachments/assets/054efef2-7968-4852-b098-5ad03fc6555f" /># 💱 CurrenSync – Currency Converter
+# 💱 CurrenSync – Currency Converter
 
 CurrenSync is a simple and user-friendly currency conversion website that allows users to convert one currency into another using the latest available exchange rates. It makes currency conversion quick, easy, and convenient.
 
@@ -21,16 +21,11 @@ CurrenSync is a simple and user-friendly currency conversion website that allows
 
 ## 🌐 Live Demo
 
-[**Click here to visit CurrenSync**]_[LINK](https://currensync-weld.vercel.app/)
+[**Click here to visit CurrenSync**](https://currensync-weld.vercel.app/)
 
 ## 📸 Screenshots
 
-<table>
-  <tr>
-    <td><img src="Screenshot 2026-11-13 021957.png"" width="100%"></td>
-    <td><img src="Screenshot 2026-11-13 022034.png"" width="100%"></td>
-  </tr>
-</table>
+<img width="100px" height="100px" alt="Screenshot 2026-11-13 022034" src="https://github.com/user-attachments/assets/054efef2-7968-4852-b098-5ad03fc6555f" />
 
 ## 📚 What I Learned
 
