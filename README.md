@@ -23,10 +23,15 @@ CurrenSync is a simple and user-friendly currency conversion website that allows
 
 [**Click here to visit CurrenSync**](https://currensync-weld.vercel.app/)
 
+
 ## 📸 Screenshots
 
-<img width="800px" height="700px" alt="Screenshot 2026-11-13 022034" src="https://github.com/user-attachments/assets/054efef2-7968-4852-b098-5ad03fc6555f" />
-
+<table>
+  <tr>
+    <td><img src="./screenshot1.png" width="100%"></td>
+    <td><img src="./screenshot2.png" width="100%"></td>
+  </tr>
+</table>
 
 ## 📚 What I Learned
 
