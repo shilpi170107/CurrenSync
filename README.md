@@ -25,8 +25,8 @@ CurrenSync is a simple and user-friendly currency conversion website that allows
 
 ## 📸 Screenshots
 
-<img width="600px" height="600px" alt="Screenshot 2026-11-13 022034" src="https://github.com/user-attachments/assets/054efef2-7968-4852-b098-5ad03fc6555f" />
-<img width="600px" height="600px" alt="Screenshot 2026-11-13 021957" src="https://github.com/user-attachments/assets/054efef2-7968-4852-b098-5ad03fc6555f" />
+<img width="800px" height="700px" alt="Screenshot 2026-11-13 022034" src="https://github.com/user-attachments/assets/054efef2-7968-4852-b098-5ad03fc6555f" />
+
 
 ## 📚 What I Learned
 
