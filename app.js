@@ -1,6 +1,6 @@
 
-const BASE_URL =
-"https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies";
+//ExchangeRate API use kari hai humne isme 
+const BASE_URL = "https://open.er-api.com/v6/latest";
 
 const dropdowns = document.querySelectorAll(".dropdown select");
 
@@ -59,7 +59,7 @@ const updateExchangeRate = async () => {
         amount.value = "1";
     }
 
-    const URL = `${BASE_URL}/${fromCurr.value.toLowerCase()}.json`;
+    const URL = `${BASE_URL}/${fromCurr.value}`;
 
     try {
 
@@ -71,7 +71,11 @@ const updateExchangeRate = async () => {
 
         let data = await response.json();
 
-        let rate = data[fromCurr.value.toLowerCase()][toCurr.value.toLowerCase()];
+        if (data.result !== "success") {
+            throw new Error("API request failed");
+        }
+
+        let rate = data.rates[toCurr.value];
 
         let finalAmount = amtVal * rate;
 
